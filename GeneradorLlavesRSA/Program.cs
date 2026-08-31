@@ -23,6 +23,8 @@ namespace GeneradorLlavesRSA
                 Console.WriteLine("Llave privada   : PKCS#8 (PEM)");
                 Console.WriteLine();
 
+
+
                 // Se crea una carpeta distinta en cada ejecución para evitar
                 // sobrescribir accidentalmente llaves existentes.
                 string outputDirectory = Path.Combine(

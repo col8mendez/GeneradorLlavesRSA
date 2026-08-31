@@ -361,3 +361,7 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# Llaves privadas y carpetas producidas por GeneradorLlavesRSA
+**/RSA_Keys_*/
+**/privateKey.pem

@@ -4,6 +4,8 @@ VisualStudioVersion = 16.0.28701.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneradorLlavesRSA", "GeneradorLlavesRSA\GeneradorLlavesRSA.csproj", "{B3D8A775-6F48-4B24-90A5-C0C8639C5188}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneradorLlavesRSA.Web", "GeneradorLlavesRSA.Web\GeneradorLlavesRSA.Web.csproj", "{9B6541F0-A408-4A21-A2A0-9CA7D885D4A1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -14,6 +16,10 @@ Global
 		{B3D8A775-6F48-4B24-90A5-C0C8639C5188}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3D8A775-6F48-4B24-90A5-C0C8639C5188}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3D8A775-6F48-4B24-90A5-C0C8639C5188}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B6541F0-A408-4A21-A2A0-9CA7D885D4A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B6541F0-A408-4A21-A2A0-9CA7D885D4A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B6541F0-A408-4A21-A2A0-9CA7D885D4A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B6541F0-A408-4A21-A2A0-9CA7D885D4A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
